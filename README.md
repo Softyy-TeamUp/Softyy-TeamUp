@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Softyy-TeamUp
-- 📫 This is my DaySmart Work account, you can reach me here or via my personal account @Softyy
+- 👋 Hi, I’m [@Softyy-TeamUp](https://github.com/Softyy-TeamUp)
+- 📫 This is my DaySmart Work account, you can reach me here or via my personal account [@Softyy](https://github.com/Softyy)
 
 
 <!---
